@@ -1,0 +1,43 @@
+{
+    "arabica": [
+        {
+            "foto": "https://i.pinimg.com/564x/7f/c6/3b/7fc63bbcd2d31c777e00cf7ab5a20024.jpg",
+            "nama": "Cappuccino",
+            "size": "250 ML",
+            "harga": "25.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        }
+    ],
+    "robusta": [
+        {
+            "foto": "https://i.pinimg.com/564x/39/35/d7/3935d7a96e33f58d5ff217963304ce52.jpg",
+            "nama": "Vanilla Ice Latte",
+            "size": "250 ML",
+            "harga": "32.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://i.pinimg.com/564x/73/06/4d/73064d620bea61db543dc8647762104d.jpg",
+            "nama": "Americano",
+            "size": "250 ML",
+            "harga": "20.000",
+            "link": "https://www.google.com/search?sca_esv=06eb692d555481e2&sca_upv=1&sxsrf=ACQVn0-KMFnmohw5xspUWTrj0QzJWU86PQ:1711055750813&q=americano&tbm=shop&source=lnms&prmd=isvnmbtz&ved=1t:200715&ictx=111&biw=1366&bih=607&dpr=1"
+        },
+        {
+            "foto": "https://i.pinimg.com/564x/26/52/40/26524050ecebb089a65af38ac44b77cf.jpg",
+            "nama": "Long Black",
+            "size": "250 ML",
+            "harga": "20.000",
+            "link": "https://www.google.com/search?q=long+black+coffee&sca_esv=06eb692d555481e2&sca_upv=1&biw=1366&bih=607&tbm=shop&sxsrf=ACQVn0_DO8o2wpFDVZAJhZAzfwCNZ-OY1A%3A1711055605163&ei=9aL8ZdiuCfKWnesPzM6NmAI&ved=0ahUKEwiY_aTsooaFAxVyS2cHHUxnAyMQ4dUDCAg&uact=5&oq=long+black+coffee&gs_lp=Egtwcm9kdWN0cy1jYyIRbG9uZyBibGFjayBjb2ZmZWUyBRAAGIAEMgUQABiABDIFEAAYgAQyBhAAGBYYHjIGEAAYFhgeMgYQABgWGB4yBhAAGBYYHjIGEAAYFhgeMgYQABgWGB4yBhAAGBYYHkjPFFCHBFjrEXAAeACQAQCYAUCgAb0DqgEBOLgBA8gBAPgBAZgCCKAC6gPCAgQQIxgnmAMAiAYBkgcBOKAHnCU&sclient=products-cc"
+        }
+    ],
+    "arabicadanrobusta": [
+        {
+            "foto": "https://i.pinimg.com/564x/b8/81/96/b88196d80bd524770b8c6fbf32714a9a.jpg",
+            "nama": "Coctail",
+            "size": "250 ML",
+            "harga": "35.000",
+            "link": "https://www.google.com/search?q=kopi+cocktail&sca_esv=06eb692d555481e2&sca_upv=1&tbm=shop&sxsrf=ACQVn087nXzY675mq8Lc-ia_Eiz-E0ukjg%3A1711052872808&ei=SJj8Zcy9MO25seMP55GR0Ao&ved=0ahUKEwjMgbPVmIaFAxXtXGwGHedIBKoQ4dUDCAg&uact=5&oq=kopi+cocktail&gs_lp=Egtwcm9kdWN0cy1jYyINa29waSBjb2NrdGFpbEjkL1DqEVinLXADeACQAQCYAXigAfsGqgEEMTMuMbgBA8gBAPgBAZgCDaAC3gXCAgQQIxgnwgIFEAAYgATCAgYQABgWGB7CAgoQABiABBgNGNYFwgINEAAYBRgeGA0Y1gUYD8ICCxAAGAgYHhgNGNYFwgINEAAYCBgeGA0Y1gUYD5gDAIgGAZIHBDEyLjGgB5Ez&sclient=products-cc"
+        }
+    ]
+}
