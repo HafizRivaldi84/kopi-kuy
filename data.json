@@ -6,6 +6,20 @@
             "size": "250 ML",
             "harga": "25.000",
             "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "https://i.pinimg.com/564x/d9/62/0a/d9620a40414d8694d3ff63f1f0673a06.jpg",
+            "nama": "Mocaccino",
+            "size": "250 ML",
+            "harga": "25.000",
+            "link": "https://www.google.com/search?sca_esv=3a827d9a328fa3af&sca_upv=1&sxsrf=ACQVn0-Q75RwJh04WvZjJPIlojfK6IzEkQ:1711132430251&q=mocaccino&tbm=shop&source=lnms&prmd=isvmnbtz&ved=1t:200715&ictx=111&biw=1366&bih=641&dpr=1"
+        },
+        {
+            "foto": "https://i.pinimg.com/564x/e5/d2/56/e5d256ac4fdab012caeb8b461fa3d309.jpg",
+            "nama": "Vietnam Drip",
+            "size": "250 ML",
+            "harga": "25.000",
+            "link": "https://www.google.com/search?sca_esv=3a827d9a328fa3af&sca_upv=1&sxsrf=ACQVn09f4SedY7kfkMGHo1ZrQmQ5k19pcg:1711132610672&q=vietnam+drip&tbm=shop&source=lnms&prmd=ivsnmbtz&ved=1t:200715&ictx=111&biw=1366&bih=641&dpr=1"
         }
     ],
     "robusta": [
@@ -38,6 +52,20 @@
             "size": "250 ML",
             "harga": "35.000",
             "link": "https://www.google.com/search?q=kopi+cocktail&sca_esv=06eb692d555481e2&sca_upv=1&tbm=shop&sxsrf=ACQVn087nXzY675mq8Lc-ia_Eiz-E0ukjg%3A1711052872808&ei=SJj8Zcy9MO25seMP55GR0Ao&ved=0ahUKEwjMgbPVmIaFAxXtXGwGHedIBKoQ4dUDCAg&uact=5&oq=kopi+cocktail&gs_lp=Egtwcm9kdWN0cy1jYyINa29waSBjb2NrdGFpbEjkL1DqEVinLXADeACQAQCYAXigAfsGqgEEMTMuMbgBA8gBAPgBAZgCDaAC3gXCAgQQIxgnwgIFEAAYgATCAgYQABgWGB7CAgoQABiABBgNGNYFwgINEAAYBRgeGA0Y1gUYD8ICCxAAGAgYHhgNGNYFwgINEAAYCBgeGA0Y1gUYD5gDAIgGAZIHBDEyLjGgB5Ez&sclient=products-cc"
+        },
+        {
+            "foto": "https://i.pinimg.com/564x/24/39/e3/2439e3147964e2d4f875fa98c9679dd5.jpg",
+            "nama": "Mocktail(Non Alcoholic)",
+            "size": "250 ML",
+            "harga": "35.000",
+            "link": "https://www.google.com/search?sca_esv=68ac34d273474b3b&sca_upv=1&sxsrf=ACQVn09xcqQ9fCkSJ72oRWnu-PcvZ_ZkJA:1711132799108&q=mocktail&tbm=shop&source=lnms&prmd=isvnmbtz&ved=1t:200715&ictx=111&biw=1366&bih=641&dpr=1"
+        },
+        {
+            "foto": "https://i.pinimg.com/564x/07/b7/e9/07b7e99bb01cca8732387d18919b2b4e.jpg",
+            "nama": "Espresso",
+            "size": "250 ML",
+            "harga": "15.000",
+            "link": "https://www.google.com/search?sca_esv=68ac34d273474b3b&sca_upv=1&sxsrf=ACQVn0_Thg6_HbeB_MsTQNRHFxnae87xYQ:1711132960088&q=espresso&tbm=shop&source=lnms&prmd=isvmnbtz&ved=1t:200715&ictx=111&biw=1366&bih=641&dpr=1"
         }
     ]
 }
