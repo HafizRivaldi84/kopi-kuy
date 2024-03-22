@@ -180,10 +180,10 @@ nav a {
    padding-right: 8px;
 }
 
-nav a:hover {
+/* nav a:hover {
    color: #ffa229;
    transition: all .3s ease-in-out;
-}
+} */
 
 
 a.shop {
@@ -196,10 +196,31 @@ a.shop {
    border-radius: 10px;
 }
 
+a.shop:hover {
+   margin-right: 100px;
+   background-color: #1b794b;
+   padding-top: 5px;
+   padding-right: 15px;
+   padding-bottom: 5px;
+   padding-left: 15px;
+   border-radius: 10px;
+
+}
+
 a.chat {
    margin-right: 30px;
    background-color: rgb(8, 69, 8);
    color: #fff;
+   padding-top: 5px;
+   padding-right: 15px;
+   padding-bottom: 5px;
+   padding-left: 15px;
+   border-radius: 10px;
+}
+
+a.chat:hover {
+   margin-right: 30px;
+   background-color: #1b794b;
    padding-top: 5px;
    padding-right: 15px;
    padding-bottom: 5px;
