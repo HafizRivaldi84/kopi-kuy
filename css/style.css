@@ -196,7 +196,7 @@ a.shop {
    border-radius: 10px;
 }
 
-/* a.shop:hover {
+a.shop:hover {
    margin-right: 100px;
    background-color: #1b794b;
    padding-top: 5px;
@@ -205,7 +205,7 @@ a.shop {
    padding-left: 15px;
    border-radius: 10px;
 
-} */
+}
 
 a.chat {
    margin-right: 30px;
@@ -218,7 +218,7 @@ a.chat {
    border-radius: 10px;
 }
 
-/* a.chat:hover {
+a.chat:hover {
    margin-right: 30px;
    background-color: #1b794b;
    padding-top: 5px;
@@ -226,7 +226,7 @@ a.chat {
    padding-bottom: 5px;
    padding-left: 15px;
    border-radius: 10px;
-} */
+}
 
 
 
