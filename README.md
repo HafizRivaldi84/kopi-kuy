@@ -1,4 +1,4 @@
 # kopi-kuy
-# kopikuyhafiz
+# kopikuy
 # Kopikuy
 # kopikuyy
